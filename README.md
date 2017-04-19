@@ -10,4 +10,4 @@
 2. Install OpenCV `pip install OpenCV-Pyhton`
 3. run python
 
-![](screenShot/map_screenshot.png)
+![](map_screenshot.png)
